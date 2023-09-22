@@ -1,0 +1,25 @@
+.table-cell{
+    border:1px solid black;
+    padding:15px;
+    border-radius: round;
+    color: rgb(219, 101, 86);
+    
+}
+.thumbnail{
+    width:130px;
+    height:130px;
+    border-radius: 20px;
+}
+#fruittable{
+    border-collapse: collapse;
+    margin:0px auto;
+    
+}
+#fruit{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(99, 54, 96);
+}
+body{
+    background: rgb(238, 238, 145);
+}
+
